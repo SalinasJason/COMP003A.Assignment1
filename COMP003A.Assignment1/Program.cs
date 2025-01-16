@@ -1,8 +1,16 @@
-﻿
+﻿/*
+   Author: Jason Salinas
+   Course: COMP-003A
+   Faculty: Jonathan Cruz
+   Purpose: Coding Assignment: 10 Things About Me
+*/
+// namespace level
 namespace COMP003A.Assignment1
 {
+    // class level
     internal class Program
     {
+        // main level
         static void Main(string[] args)
         {
             Console.WriteLine("Enter your name: ");
